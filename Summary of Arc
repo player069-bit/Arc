@@ -1,0 +1,23 @@
+------Roshni Route-------
+
+Safety-first navigation for women walking, driving, or riding alone.
+
+The Problem
+
+Google Maps prioritizes speed over safety — routing women through dark, deserted roads at night. Uber's SOS only works inside an Uber cab. No existing tool proactively prevents women from entering unsafe areas.
+
+Our Solution
+
+Roshni Route is a navigation app that routes users through well-lit, populated roads and sends automated SOS alerts — even without pressing a button.
+
+How It Works
+
+Safe Routing
+
+Scans routes for 24/7 businesses (ATMs, pharmacies, police stations) as proxies for well-lit, safe roads
+Users drop Black Pins on unsafe streets — the app reroutes future users around them
+
+Automated SOS
+
+Phone stationary in a Dark Zone for 3 minutes → 10-second countdown → SOS fires if unanswered
+Phone loses network mid-route → server detects missed ping → texts family the last known location
